@@ -1,0 +1,5 @@
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website\bin\TreasureHunt.Website.dll
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website\bin\TreasureHunt.Website.pdb
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website\obj\Debug\TreasureHunt.Website.dll
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website\obj\Debug\TreasureHunt.Website.pdb

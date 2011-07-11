@@ -1,0 +1,8 @@
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\bin\Debug\TreasureHunt.Website.Tests.dll.config
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\bin\Debug\TreasureHunt.Website.Tests.dll
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\bin\Debug\TreasureHunt.Website.Tests.pdb
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\bin\Debug\TreasureHunt.Website.dll
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\bin\Debug\TreasureHunt.Website.pdb
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\obj\Debug\TreasureHunt.Website.Tests.dll
+C:\Projects\Mobile-Treasure-Hunt\Source\TreasureHunt.Website.Tests\obj\Debug\TreasureHunt.Website.Tests.pdb
